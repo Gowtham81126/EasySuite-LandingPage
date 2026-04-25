@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/easysuite.git
+git clone https://github.com/Gowtham81126/EasySuite-LandingPage.git
 cd easysuite
 ```
 
