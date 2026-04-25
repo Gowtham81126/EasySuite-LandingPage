@@ -19,9 +19,10 @@ export default defineConfig({
   build: {
     outDir: path.resolve(import.meta.dirname, "dist/public"),
     emptyOutDir: true,
+    sourcemap: false,
   },
   server: {
-    port: 5173,
+    port: 5175,
     strictPort: false,
     host: true,
     allowedHosts: true,
@@ -30,7 +31,7 @@ export default defineConfig({
     },
   },
   preview: {
-    port: 5173,
+    port: 5175,
     host: true,
     allowedHosts: true,
   },
