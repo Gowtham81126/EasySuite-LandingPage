@@ -1,4 +1,4 @@
-# 🌐 Easy Suite - LandingPage
+# 🌐 Easy Suite - Landing Page
 
 EasySuite is a modern landing page that brings together **ParkEasy** and **ChargeEasy** into a single unified platform. It serves as the entry point for users to explore smart parking and EV charging solutions with a clean and intuitive interface.
 
